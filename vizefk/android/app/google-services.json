@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934241493492",
+    "project_id": "vize030120096",
+    "storage_bucket": "vize030120096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934241493492:android:ee4f3ca48753d08d4c59a1",
+        "android_client_info": {
+          "package_name": "com.example.vizefk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934241493492-njkls2aiqd8hpiqr2gqrlukj86kf57tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-QLe4bR9eWCA0-9k55GW8hb4u0xrmRXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934241493492-njkls2aiqd8hpiqr2gqrlukj86kf57tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
